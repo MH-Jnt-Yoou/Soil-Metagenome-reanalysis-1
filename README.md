@@ -26,7 +26,7 @@ Assume you want to follow or refer our pipe. Please be aware of the instructions
 
 # Directory structure
 
-The OTU files are made from analysis from Kingdom level to Species level (Level 1 ~ Level 7). All OTU data from one project are gathered in the directory named after its project name. Below are the project list we used for our reanlaysis and having the OTU files. Description for each project are presented on Table S12.
+The OTU files are made from analysis from Kingdom level to Species level (Level 1 ~ Level 7). All OTU data from one project are gathered in the directory named after its project name. Below are the project list we used for our reanlaysis and having the OTU files. Description for each project are presented on Table S1.
 
 - PRJNA255789
 - PRJNA386367
@@ -47,4 +47,6 @@ The OTU files are made from analysis from Kingdom level to Species level (Level 
 Refer to the LICENSE and authors
 
 # Authors
-Myeonghyun Yoou (pple2202@gmail.com)
+Myeonghyun Yoou (pple2202@khu.ac.kr)
+Seokwon Jang (seokwonjang@khu.ac.kr)
+Woojong Hong (hwj0602@khu.ac.kr)
