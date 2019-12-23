@@ -47,6 +47,6 @@ The OTU files are made from analysis from Kingdom level to Species level (Level 
 Refer to the LICENSE and authors
 
 # Authors
-Myeonghyun Yoou (pple2202@khu.ac.kr)
-Seokwon Jang (seokwonjang@khu.ac.kr)
-Woojong Hong (hwj0602@khu.ac.kr)
+Myeonghyun Yoou (pple2202@khu.ac.kr)   
+Seokwon Jang (seokwonjang@khu.ac.kr)   
+Woojong Hong (hwj0602@khu.ac.kr)   
